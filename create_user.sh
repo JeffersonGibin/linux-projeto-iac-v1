@@ -2,9 +2,10 @@
 
 # Dependencias externas
 if which jq >/dev/null; then
-    echo "A dependencia 'jq' foi encontrada e não será instalada!"
+    echo "#### A dependência 'jq' foi encontrada e não será instalada! ####"
 else
     apt-get install jq -y
+    echo "#### O pacote 'jq' foi instalado em seu computador! ####"
 fi
 
 
