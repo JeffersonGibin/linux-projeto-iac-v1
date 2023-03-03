@@ -1,6 +1,16 @@
 # LINUX PROJETO IaC V1
 
-Este projeto foi desenvolvido durante o curso de Linux da DIO.me. O objetivo do projeto foi modificado para gerar usuários dinamicamente com base em um arquivo JSON de configurações.
+Este projeto foi desenvolvido durante o curso de Linux da DIO.me. O objetivo do projeto foi modificado mas o objetivo principal se manteve.
+
+## Definição do problema proposto pela DIO.me.
+
+- Todo Provisionamento deve ser feito em um arquivo do tipo Bash Script;
+- O dono de todos os diretórios será o usuário root;
+- Todos os usuários terão permissão total dentro do diretório *público*;
+- Os usuários de cada grupo terão permissão total dentro de seu rescpectivo diretório;
+- Os usuários não poderão ter permissões de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
+
+![image](https://user-images.githubusercontent.com/6215779/222852546-b358c3e5-9f3d-4672-bbba-67bf71fc6d9e.png)
 
 
 ### Como executar ?
@@ -20,8 +30,6 @@ Este projeto foi desenvolvido durante o curso de Linux da DIO.me. O objetivo do 
 ```bash
 bash create_user.sh
 ```
-
-
 
 ## Configurações
 
@@ -46,7 +54,6 @@ Você pode adicionar um novo usuário dinamicamente e informar em qual grupo ele
 }
 
 ```
-
 
 ## Grupos
 É possível definir também configurações para os grupos.
