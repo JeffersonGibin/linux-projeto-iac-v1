@@ -77,6 +77,6 @@ Você pode adicionar um novo usuário dinamicamente e informar em qual grupo ele
 ```
 
 
-## Dependencias
+## Depêndencia de pacote Linux
 Esse projeto depende do pacote linux ´jq` caso você não tenha em sua máquina, será instalado automáticamente.
 
