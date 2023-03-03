@@ -1,4 +1,4 @@
-# LINUX PROJETO IaC
+# LINUX PROJETO IaC V1
 
 Este projeto foi desenvolvido durante o curso de Linux da DIO.me. O objetivo do projeto foi modificado para gerar usuários dinamicamente com base em um arquivo JSON de configurações.
 
