@@ -27,28 +27,28 @@ settings='{
 
         {
             "username": "debora",
-            "group": "GRP_ADM"
+            "group": "GRP_VEN"
         },
         {
             "username": "sebastiana",
-            "group": "GRP_ADM"
+            "group": "GRP_VEN"
         },
         {
             "username": "roberto",
-            "group": "GRP_ADM"
+            "group": "GRP_VEN"
         }, 
 
         {
             "username": "josefina",
-            "group": "GRP_ADM"
+            "group": "GRP_SEC"
         },
         {
             "username": "amanda",
-            "group": "GRP_ADM"
+            "group": "GRP_SEC"
         },
         {
             "username": "rogerio",
-            "group": "GRP_ADM"
+            "group": "GRP_SEC"
         }    
     ],
 
