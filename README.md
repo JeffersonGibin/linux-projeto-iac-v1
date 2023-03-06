@@ -1,6 +1,6 @@
 # LINUX PROJETO IaC V1
 
-Este projeto foi desenvolvido durante o curso de Linux da DIO.me. O objetivo do projeto foi modificado mas o objetivo principal se manteve.
+Este projeto foi desenvolvido durante o curso de Linux da DIO.me. O projeto foi modificado mas o objetivo principal se manteve.
 
 ## Definição do problema proposto pela DIO.me.
 
