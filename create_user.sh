@@ -92,7 +92,7 @@ createDirectories(){
         # Cria o diretório
         mkdir $directory
 
-        # Definindo permição do diretório
+        # Definindo permissão do diretório
         chmod $permissions $directory
     done
 
